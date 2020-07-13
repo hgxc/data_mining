@@ -1,0 +1,15 @@
+major 1
+swiss 1
+banks 1
+raise 1
+customer 1
+time 1
+deposit 1
+rates 1
+/ 1
+point 1
+to 1
+three 1
+pct 1
+credit 1
+suisse 1

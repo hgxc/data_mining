@@ -1,0 +1,8 @@
+top 1
+discount 1
+rate 1
+u.k. 1
+bill 1
+tender 1
+rise 1
+pct 1

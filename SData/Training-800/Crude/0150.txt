@@ -1,0 +1,11 @@
+shell 1
+canada 1
+raises 1
+crude 1
+prices 1
+by 1
+canadian 1
+cts/bbl 1
+today 1
+at 1
+edmonton 1

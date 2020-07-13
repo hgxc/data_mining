@@ -1,0 +1,8 @@
+swiss 1
+feb 1
+trade 1
+deficit 2
+mln 2
+francs 1
+jan 1
+official 1

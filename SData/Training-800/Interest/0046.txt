@@ -1,0 +1,7 @@
+u.s. 1
+sells 1
+-mo 2
+bills 1
+at 1
+pct 4
+stop 2

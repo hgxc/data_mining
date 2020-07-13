@@ -1,0 +1,8 @@
+bundesbank 1
+allocate 1
+billion 1
+mark 1
+-day 1
+repurchase 1
+pact 1
+pct 1

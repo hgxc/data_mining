@@ -1,0 +1,16 @@
+manufacturers 2
+national 2
+< 1
+mntl 1
+> 1
+raises 1
+prime 2
+bank 1
+detroitsaid 1
+increase 1
+rate 1
+-/ 2
+pct 2
+effective 1
+immediately 1
+reuter 1

@@ -1,0 +1,11 @@
+bank 1
+of 1
+france 1
+leaves 1
+intervention 1
+rate 1
+unchanged 1
+at 1
+-/ 1
+pct 1
+official 1

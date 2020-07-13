@@ -1,0 +1,8 @@
+sumita 1
+say 1
+bank 1
+japan 1
+intention 1
+lower 1
+discount 1
+rate 1

@@ -1,0 +1,11 @@
+toronto 1
+dominion 1
+bank 1
+cuts 1
+prime 1
+rate 1
+to 1
+-/ 2
+pct 2
+from 1
+tomorrow 1

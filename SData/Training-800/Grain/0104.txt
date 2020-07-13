@@ -1,0 +1,11 @@
+usda 1
+estimates 1
+/ 2
+ussr 1
+grain 1
+imports 1
+mln 1
+tonnes 1
+vs 1
+in 2
+feb 1

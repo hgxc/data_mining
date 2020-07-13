@@ -1,0 +1,13 @@
+marathon 1
+raises 1
+crude 1
+posted 1
+prices 1
+cts 1
+a 1
+bbl 1
+effective 1
+today 1
+wti 1
+at 1
+dlrs/bbl 1

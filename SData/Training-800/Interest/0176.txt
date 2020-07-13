@@ -1,0 +1,15 @@
+tcf 2
+banking 2
+and 1
+savings 2
+hikes 1
+prime 2
+rate 2
+fa 1
+say 1
+itis 1
+raise 1
+-/ 2
+pct 2
+effectivetoday 1
+reuter 1

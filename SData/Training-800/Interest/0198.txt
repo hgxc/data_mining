@@ -1,0 +1,15 @@
+meridian 2
+bancorp 2
+< 1
+mrdn 1
+> 1
+raises 1
+prime 2
+rate 2
+inc 1
+say 1
+hasraised 1
+-/ 2
+pct 2
+effectiveimmediately 1
+reuter 1

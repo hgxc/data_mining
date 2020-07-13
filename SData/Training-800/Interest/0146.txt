@@ -1,0 +1,11 @@
+manufacturers 1
+hanover 1
+raises 1
+prime 1
+rate 1
+to 1
+-/ 1
+pct 1
+from-/ 1
+effective 1
+today 1

@@ -1,0 +1,9 @@
+usda 1
+accepts 1
+offers 1
+for 2
+tonnes 1
+of 1
+bonus 1
+wheat 1
+china 1

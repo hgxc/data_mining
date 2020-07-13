@@ -1,0 +1,10 @@
+citibank 1
+says 1
+it 1
+raises 1
+base 1
+rate 1
+to 1
+-/ 2
+pct 2
+from 1

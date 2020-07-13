@@ -1,0 +1,9 @@
+marathon 1
+to 2
+raise 1
+crude 1
+prices 1
+cts/bbl 1
+tomorrow 1
+wti 1
+dlrs 1

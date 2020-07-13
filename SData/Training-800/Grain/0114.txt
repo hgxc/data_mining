@@ -1,0 +1,17 @@
+grain 2
+ships 1
+loading 1
+at 1
+portland 3
+there 1
+three 1
+ship 2
+loadingand 1
+two 1
+wait 1
+load 1
+accord 1
+tothe 1
+merchants 1
+exchange 1
+reuter 1

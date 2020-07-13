@@ -1,0 +1,10 @@
+sun 1
+raises 1
+crude 1
+postings 1
+cts 1
+effective 1
+today 1
+wti 1
+to 1
+dlrs/bbl 1

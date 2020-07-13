@@ -1,0 +1,8 @@
+bundesbank 1
+set 1
+-day 1
+security 1
+repurchase 1
+tender 1
+fix 1
+pct 1

@@ -1,0 +1,13 @@
+continental 2
+illinois 2
+< 1
+cil 1
+> 1
+raises 1
+prime 2
+rate 2
+corp 1
+say 1
+hasraised 1
+-/ 2
+reuter 1

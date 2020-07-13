@@ -1,0 +1,6 @@
+belgium 1
+cut 1
+discount 1
+rate 1
+pct 1
+official 1

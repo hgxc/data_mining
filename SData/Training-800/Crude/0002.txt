@@ -1,0 +1,11 @@
+texaco 1
+canada 1
+cuts 1
+crude 1
+prices 1
+canadian 2
+cts/bbl 1
+par 1
+grade 1
+to 1
+dlrs 1

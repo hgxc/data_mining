@@ -1,0 +1,11 @@
+ec 1
+grants 1
+licences 1
+for 1
+tonnes 1
+barley 1
+at 1
+ecus 1
+rebate 1
+brussels 1
+trade 1

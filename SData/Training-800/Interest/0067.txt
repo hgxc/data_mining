@@ -1,0 +1,13 @@
+bank 1
+of 1
+nova 1
+scotia 1
+cuts 1
+prime 1
+rate 1
+to 1
+-/ 2
+pct 2
+from 1
+effective 1
+tomorrow 1

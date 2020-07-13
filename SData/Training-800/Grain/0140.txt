@@ -1,0 +1,11 @@
+u.s 1
+exporters 1
+report 1
+tonnes 1
+wheat 1
+purchased 1
+from 1
+foreign 1
+sellers 1
+for 1
+/ 1

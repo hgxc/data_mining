@@ -1,0 +1,9 @@
+u.s 1
+export 1
+inspections 1
+in 1
+thous 1
+bushels 1
+soybeans 1
+wheat 1
+corn 1

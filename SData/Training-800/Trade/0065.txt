@@ -1,0 +1,8 @@
+canada 1
+january 1
+trade 1
+surplus 2
+mln 2
+dlrs 2
+after 1
+december 1

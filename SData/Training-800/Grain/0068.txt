@@ -1,0 +1,11 @@
+ec 1
+awards 1
+tonnes 1
+barley 1
+export 1
+licences 1
+at 1
+ecus 1
+per 1
+tonne 1
+traders 1

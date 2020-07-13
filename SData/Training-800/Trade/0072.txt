@@ -1,0 +1,10 @@
+key 1
+u.s. 2
+house 1
+trade 2
+subcommittee 1
+approves 1
+bill 1
+to 1
+toughen 1
+laws 1

@@ -1,0 +1,10 @@
+london 1
+floating 1
+rate 1
+note 1
+price 1
+open 1
+sharply 1
+low 1
+dealer 1
+say 1

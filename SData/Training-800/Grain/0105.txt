@@ -1,0 +1,12 @@
+usda 1
+estimates 1
+soviet 1
+grain 1
+crop 1
+at 1
+mln 1
+tonnes 1
+vs 1
+in 1
+feb 1
+year-ago 1

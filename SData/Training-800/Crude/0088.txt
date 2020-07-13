@@ -1,0 +1,13 @@
+conoco 1
+raises 1
+crude 1
+oil 1
+prices 1
+up 1
+to 1
+one 1
+dlr 1
+barrel 1
+wti 1
+at 1
+dlrs 1

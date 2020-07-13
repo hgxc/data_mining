@@ -1,0 +1,16 @@
+harris 2
+bank 2
+increases 1
+its 1
+prime 2
+rate 2
+< 1
+the 1
+trust 1
+savings 1
+> 1
+saidit 1
+increase 1
+-/ 2
+effectiveimmediately 1
+reuter 1

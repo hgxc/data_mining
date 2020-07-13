@@ -1,0 +1,11 @@
+u.s 1
+exporters 1
+report 1
+tonnes 1
+corn 1
+sold 1
+to 1
+unknown 1
+destinations 1
+for 1
+/ 1

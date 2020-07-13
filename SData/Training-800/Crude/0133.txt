@@ -1,0 +1,10 @@
+unocal 1
+raises 1
+most 1
+crude 1
+prices 1
+cts 1
+today 1
+wti 1
+at 1
+dlrs 1
